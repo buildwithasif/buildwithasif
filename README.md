@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF66&center=false&vCenter=true&width=700&lines=%F0%9F%90%8B+Hi%2C+I'm+Saiful+Aziz+(Asif);Frontend+Developer;Happy+to+learn+something+new+every+day;Currently+mastering+React;Building+clean,+responsive,+and+modern+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=00FF66&center=false&vCenter=true&width=700&lines=%F0%9F%90%8B+Hi%2C+I'm+Saiful+Aziz+(Asif);Frontend+Developer;Happy+to+learn+something+new+every+day;Currently+learning+React;Building+clean,+responsive,+and+modern+web+apps" alt="Typing SVG" />
 </a>
 
 ---
